@@ -1,5 +1,7 @@
 <?php
 
+use SilverStripe\Core\Extension;
+
 /**
  * This component provides a automatic integration of ajax refresh button with default {@link GridField}
  *

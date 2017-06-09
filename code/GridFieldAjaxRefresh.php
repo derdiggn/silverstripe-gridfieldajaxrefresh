@@ -1,5 +1,7 @@
 <?php
 
+use SilverStripe\Forms\GridField\GridField_HTMLProvider;
+
 /**
  * This component provides a automatic refreshing of a gridfield at a particular interval, or manual refreshing with
  * a "refresh" button {@link GridField}
