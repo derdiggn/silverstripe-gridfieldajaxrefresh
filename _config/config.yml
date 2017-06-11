@@ -1,7 +1,9 @@
 ---
 Name: gridfieldajaxrefresh
-Before: 'mysite/*'
-After: 'framework/*','cms/*'
+Before: 'app/*'
+After:
+  - 'framework/*'
+  - 'cms/*'
 ---
 
 GridFieldConfig_Base:
